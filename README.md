@@ -12,4 +12,4 @@ Expected Outcomes:
 - Draft some conclusion about this project.
 - Propose several methods to boost the performance. 
 
-### Open  ![Inspectorio_DS_TEST.ipynb](https://github.com/gnvml/predict_risk_imbalanced_data/blob/master/Inspectorio_DS_TEST.ipynb) for details.
+### Open  [predict_risk_imbalanced_data.ipynb](https://github.com/gnvml/predict_risk_imbalanced_data/blob/master/predict_risk_imbalanced_data.ipynb) for details.
